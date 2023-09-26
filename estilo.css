@@ -1,0 +1,51 @@
+*{
+    margin: auto;
+    padding: auto;
+    margin-top: 8px;
+}
+.calculo{
+    border: 4px solid #888;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    
+    
+}
+#valor1{
+    background-color: rgba(211, 211, 211, 0.452);
+    border-radius: 5px;
+    width: 150px;
+    height: 20px;
+}
+#valor2{
+    background-color: rgba(211, 211, 211, 0.452);
+    border-radius: 5px;
+    width: 150px;
+    height: 20px;
+}
+#res{
+    background-color: rgba(211, 211, 211, 0.452);
+    border-radius: 5px;
+    width: 150px;
+    height: 20px;
+}
+#btn_somar{
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+#btn_subtrair{
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+#btn_multiplicar{
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+}
+#btn_dividir{
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+}
