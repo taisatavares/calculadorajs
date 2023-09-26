@@ -33,19 +33,27 @@
     width: 30px;
     height: 30px;
     font-size: 20px;
+    text-align: center;
+    color: black;
 }
 #btn_subtrair{
     width: 30px;
     height: 30px;
     font-size: 20px;
+    text-align: center;
+    color: black;
 }
 #btn_multiplicar{
     width: 30px;
     height: 30px;
     font-size: 20px;
+    text-align: center;
+    color: black;
 }
 #btn_dividir{
     width: 30px;
     height: 30px;
     font-size: 20px;
+    text-align: center;
+    color: black;
 }
